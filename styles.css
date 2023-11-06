@@ -36,3 +36,10 @@ input {
 	border: none;
 	border-bottom: grey;
 }
+.postcard-footer {
+	text-align: 0;
+}
+button {
+	background-color: x;
+	padding: x;
+}
